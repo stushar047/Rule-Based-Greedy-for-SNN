@@ -1,0 +1,13 @@
+{
+    "seed": 42,
+    "f_sample": 64,
+    "abs_period_": 32,
+    "epochs": 100,
+    "abs_epoch": 200,
+    "method": "ID",
+    "app": "breast_cancer",
+    "lr": 0.1,
+    "b1": 0.8,
+    "b2": 0.999,
+    "batch_size": 16
+}
